@@ -13,6 +13,8 @@ Este proyecto proporciona una API REST para gestionar información sobre pelícu
 - **Descripción:** Obtiene una lista paginada de películas de autos.
 - **Ejemplo de respuesta:**
 
+
+
 ```json
 [
   {
